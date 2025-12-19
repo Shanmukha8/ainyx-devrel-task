@@ -1,9 +1,9 @@
+# DevRel Competitor Analysis & Content Pack for Clode
 # DevRel Intern Task Submission
    **Candidate Name:** B V N Shanmukha
    **Email:** [bingimallashanmukha@gmail.com]
    **Date:** December 19, 2025
    
-   ---# DevRel Competitor Analysis & Content Pack for Clode
 
 ## Table of Contents
 1. [Competitor Research (10 Companies)](#competitor-research)
